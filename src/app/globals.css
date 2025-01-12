@@ -1,3 +1,32 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.dark-mode {
+  background-color: #232323;
+  color: #ffffff;
+}
+
+.dark-mode .footer {
+  background-color: #292929;
+  color: #ffffff;
+}
+
+.dark-mode .navbar {
+  background-color: #292929;
+}
+
+.dark-mode .navbar .nav-link,
+.dark-mode .navbar .navbar-brand {
+  color: #ffffff !important;
+}
+
+.dark-mode .navbar .nav-item .nav-link {
+  color: #ffffff !important;
+}
+
+.dark-mode .card {
+  background-color: #292929;
+  color: #ffffff;
+  border-color: white;
+}
