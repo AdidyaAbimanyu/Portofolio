@@ -1,8 +1,8 @@
 'use client';
 
 import 'bootstrap/dist/css/bootstrap.css';
-import Navbar from './components/navbar';
-import Footer from './components/footer';
+import Navbar from '../components/navbar';
+import Footer from '../components/footer';
 import { Typewriter } from 'react-simple-typewriter';
 
 export default function Page() {
