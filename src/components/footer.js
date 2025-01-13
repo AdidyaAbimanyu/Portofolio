@@ -1,6 +1,3 @@
-import React from 'react';
-import 'bootstrap/dist/css/bootstrap.css';
-
 export default function Footer() {
  return (
    <footer className="bg-dark text-light py-4 mt-5">
