@@ -9,7 +9,7 @@ export default function Main() {
                 <div className="row justify-content-evenly align-items-center pt-4">
                     <div className="col-md-4 justify-content-center">
                         <img
-                            src="/photo.jpg"
+                            src="images/photo.jpg"
                             className="img-thumbnail rounded-circle shadow-sm"
                             alt="Adidya"
                         />
